@@ -6,7 +6,7 @@ terraform {
     }
 
     genesyscloud = {
-      source = "mypurecloud/genesyscloud"
+      source = "usw2.pure.cloud"
     }
   }
 }
