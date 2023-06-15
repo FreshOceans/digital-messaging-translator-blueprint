@@ -25,7 +25,7 @@ module "queue" {
    Configures the architect inbound message flow
 */
 module "archy_flow" {
-  source      = "./modules/flow"
+  source = "./modules/flow"
 }
 
 /*   
